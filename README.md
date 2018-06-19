@@ -160,4 +160,4 @@ Take a baseline installation of a Linux distribution on a virtual machine and pr
   
 17. Visit site at [http://54.144.211.219.xip.io/](http://54.144.211.219.xip.io/)
 
-**Special Thanks to (https://github.com/kongling893/Linux-Server-Configuration-UDACITY)* for a very helpful README**
+**Special Thanks to [kongling893](https://github.com/kongling893)* for a very helpful README**
